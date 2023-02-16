@@ -6,12 +6,7 @@
 
 ## Descrição do projeto
 
-###   Este mini projeto é uma análise dos dados de acidentes e infrações da cidade do Recife
-### a linha temporal dos dados compreende 2019, 2020 e 2021 com informações de data, hora, 
-### local do ocorrido, agentes envolvidos, tipo de veiculo e vitimas do acidente. 
-###   O objetivo principal é extrair informações através do cruzamento de dados dos datasets 
-### e filtragem de informações disponíveis. Uma observação interessante é que o periodo de restrições 
-### de mobilização da pandemia está contido nos dados e poderá ser fonte de insights interessantes.
+###   Este mini projeto é uma análise dos dados de acidentes e infrações da cidade do Recifea linha temporal dos dados compreende 2019, 2020 e 2021 com informações de data, hora, local do ocorrido, agentes envolvidos, tipo de veiculo e vitimas do acidente. O objetivo principal é extrair informações através do cruzamento de dados dos datasets e filtragem de informações disponíveis. Uma observação interessante é que o periodo de restrições de mobilização da pandemia está contido nos dados e poderá ser fonte de insights interessantes.
 
 ## Perguntas propostas até o momento:
 
